@@ -4,7 +4,7 @@
 
 ## Aim
 
-To create RESTful web services using both server-side and client-side implementations.
+To create RESTful web services using both server-side and client-side implementations..
 
 ## Procedure
 
